@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up guys, welcome to my github profile! This is primarily my professional page used for school work. I have another page titled 'penguintacticsplaygrounds" for my fun projects. Make sure to check out my Twitch: RealMrMega👋
 
 <!--
 **PenguinTactics/penguintactics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
